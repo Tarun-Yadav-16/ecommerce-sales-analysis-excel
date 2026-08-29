@@ -275,6 +275,3 @@ Return Analysis
 Interactive Excel Dashboard  
 ↓  
 Business Insights
-
-    ├── dashboard-overview.png
-    └── dashboard-charts.png
